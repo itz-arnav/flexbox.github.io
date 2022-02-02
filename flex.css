@@ -116,10 +116,12 @@ h1, h2{
         flex-direction: column;
         padding-top: 20px;
         text-align: center;
+        width: 100%;
     }
 
     .boxes .container{
         display: block;
         text-align: center;
+        width: 100%;
     }
 }
